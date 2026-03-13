@@ -381,7 +381,7 @@ h6 {
   font-size: 22px;
 }
 
-#hero .btn-get-started {
+.btn-get-started {
   color: #213b52;
   border-radius: 50px;
   padding: 8px 35px 10px 35px;
@@ -391,7 +391,7 @@ h6 {
   background: #fdc134;
 }
 
-#hero .btn-get-started:hover {
+.btn-get-started:hover {
   background: transparent;
   color: #fff;
 }
